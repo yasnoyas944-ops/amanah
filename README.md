@@ -1,0 +1,2 @@
+# amanah
+Amanah smart contract
