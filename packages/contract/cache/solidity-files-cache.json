@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\AMIR\\.gemini\\antigravity\\frelancer22\\influencer-escrow\\packages\\contract\\contracts\\InfluencerEscrow.sol": {
+      "lastModificationDate": 1764972085523,
+      "contentHash": "3b58e439fba5b9d9e14c7ba822b6d791",
+      "sourceName": "contracts/InfluencerEscrow.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "InfluencerEscrow"
+      ]
+    }
+  }
+}
